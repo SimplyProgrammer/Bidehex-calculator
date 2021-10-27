@@ -8,6 +8,8 @@ Features:
 * Understanding of IPv6 format.
 * Information about current numbers parameters.
 
-Planed features
+Planed features:
 * Ability to perform simple arithmetic operations (calculator).
 * Java runtime independence and installer.
+
+For now, java 8 - 10 is required to run this application!
