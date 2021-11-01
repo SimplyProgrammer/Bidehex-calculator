@@ -18,7 +18,7 @@ What was added:
 * Ability to perform basic arithmetic operations (add, subtract, multiply, divide, modulo, power)!
 * Expression groups to define order precedence of expression!
 * Simpler text field right click context menu!
-* Application now can be downloaded as executable file or setup wizard that do can install application as java independant!
+* Application now can be downloaded as executable file or setup wizard that can install application as java independent!
 * Small visual design changes!
 * Small bugs fixed!
 #
