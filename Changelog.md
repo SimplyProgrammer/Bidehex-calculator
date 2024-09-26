@@ -23,7 +23,7 @@ What was added:
 * Small bugs fixed!
 #
 
-# Bidehex 1.1.5 (beta)
+# Bidehex 1.1.5
 
 Release date: Near future
 
