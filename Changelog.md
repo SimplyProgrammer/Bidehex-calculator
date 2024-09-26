@@ -50,7 +50,7 @@ What was added:
   * Physical 'MAC' address:
     * Broadcast address.
     * Can show you the vendor if you are connected to the internet.
-* Partial IP from URL lookup was implemented.
+* Partial DNS (IP from URL) lookup was implemented.
 * Context menu (field right click) was improved, now it supports:
   * Copy and paste with specifiable delimiter that will be replaced from/to space (which is standard delimiter).
   * Ability to add a specified number of padding zeros to the specific field.
