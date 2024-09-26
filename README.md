@@ -8,8 +8,9 @@ Features and goals:
 * Understanding of IPv4 format.
 * Understanding of IPv6 format.
 * Understanding Mac address format.
-* Information about current numbers parameters.
+* Information about current input parameters.
 * Ability to perform simple arithmetic operations (calculator).
+* IP from URL (DNS lookup).
 * Java runtime independence and installer.
 
 # Download
