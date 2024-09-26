@@ -23,19 +23,19 @@ What was added:
 * Small bugs fixed!
 #
 
-# Bidehex 1.1.5
+# Bidehex 1.2.0
 
 Release date: Near future
 
 What was added:
 * Updating internal APIs to their latest version. Also updating Java from 8 -> 21
 * Internal refactoring.
-* Other fields are no longer updated in real-time. Now they are updated after 1 sec delay, pressing Enter will make the update instant.
-  * Invalid input is also no longer replaced instantly with the last valid input, it's removed after 1 sec after the user has finished timing which gives better user experience.
+* Other fields are no longer updated in real-time as you type. Now they are updated after 1 sec delay. Pressing Enter will make the update instant.
+  * Invalid input is no longer replaced instantly with the last valid input, it's replaced after 1 sec as well. This gives you time to make necessary changes. This improves user experience.
 * Expression can now be evaluated (replaced by the result value) by Shift+Enter.
-  * If the field contains an expression or value that is not in its respective base then tooltip is going to be displayed with the proper values.
-* 0-padding now works for in every input field not only the binary one.
-* Datatype information prompts were greatly improved, now it can recognize:
+  * If the field contains an expression or value that is not in its respective base then the tooltip is going to be displayed with the proper/result values.
+* 0-padding now works for in every input field not only in the binary one.
+* Datatype recognition was greatly improved, now it can recognize:
   * IPv4:
     * A, B and C masks.
     * Broadcast address.
@@ -50,6 +50,9 @@ What was added:
   * Physical 'MAC' address:
     * Broadcast address.
     * Can show you the vendor if you are connected to the internet.
-* Partial DNS lookup for URLs was implemented.
+* Partial IP from URL lookup was implemented.
+* Context menu (field right click) was improved, now it supports:
+  * Copy and paste with specifiable delimiter that will be replaced from/to space (which is standard delimiter).
+  * Ability to add a specified number of padding zeros to the specific field.
 * Slight performance improvements.
 #
