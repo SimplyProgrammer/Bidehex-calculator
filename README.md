@@ -7,6 +7,7 @@ Features and goals:
 * Ability to convert multiple numbers at once.
 * Understanding of IPv4 format.
 * Understanding of IPv6 format.
+* Understanding Mac address format.
 * Information about current numbers parameters.
 * Ability to perform simple arithmetic operations (calculator).
 * Java runtime independence and installer.
