@@ -14,7 +14,5 @@ Features and goals:
 * Java runtime independence and installer.
 
 # Download
-Download setup wizard from [here](https://download-bidehex-calculator.netlify.app/files/Bidehex%20setup.exe) and install Bidehex or download .exe file from this repository!
-
-# Note:
-Version 1.1.0+ do not need java installed on target device if installed via setup wizard from link, 1.0.0 always needs java 8 - 10!
+For Windows X64 you can simply download the standalone .exe file that does not need any external Java runtime or installation.
+For other systems, you have to download [Java 21+](https://www.graalvm.org/downloads/) and tan the .jar file with `java -jar <Bidehex X.Y.Z.jar>`
