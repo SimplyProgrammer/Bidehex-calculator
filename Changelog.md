@@ -25,7 +25,7 @@ What was added:
 
 # Bidehex 1.2.0
 
-Release date: Near future
+Release date: 9.28.2024 (Night)
 
 What was added:
 * Updating internal APIs to their latest version. Also updating Java from 8 -> 21
@@ -52,7 +52,7 @@ What was added:
     * Can show you the vendor if you are connected to the internet.
 * Partial DNS (IP from URL) lookup was implemented.
 * Context menu (field right click) was improved, now it supports:
-  * Copy and paste with specifiable delimiter that will be replaced from/to space (which is standard delimiter).
+  * Copy and paste with specifiable delimiter that will be replaced from/to space (which is standard delimiter). Remember that delimiter for IPv4 is '.', for IPv6 it's ':' and for MAC address it is ':' or '-'.
   * Ability to add a specified number of padding zeros to the specific field.
 * Slight performance improvements.
 #
