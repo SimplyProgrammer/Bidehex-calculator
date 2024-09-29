@@ -15,4 +15,4 @@ Features and goals:
 
 # Download
 For Windows X64 you can simply download the .zip file (unzip it if needed) and run Bidehex .exe file that does not need any external Java runtime or installation.<br>
-For other systems, or if the .exe file does not work for some reason, try running Bidehex .sh file, it should handle everything necessary.
+For other systems, or if the .exe file does not work for some reason, try running Bidehex .sh file, it should handle everything necessary (Note that [GitBash](https://git-scm.com/downloads/win) is required on Windows for this).
