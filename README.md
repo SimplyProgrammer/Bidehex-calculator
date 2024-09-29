@@ -14,5 +14,5 @@ Features and goals:
 * Java runtime independence and installer.
 
 # Download
-For Windows X64 you can simply download the .zip file (unzip it if needed) and run .exe file that does not need any external Java runtime or installation.
-For other systems, you have to download [Java 21+](https://www.graalvm.org/downloads/) and tan the .jar file with `java -jar <Bidehex X.Y.Z.jar>`
+For Windows X64 you can simply download the .zip file (unzip it if needed) and run .exe file that does not need any external Java runtime or installation.<br>
+For other systems, you have to download [Java 21+](https://www.graalvm.org/downloads/) and run the .jar file with `java -jar <Bidehex X.Y.Z.jar>`
